@@ -1,0 +1,11 @@
+D:\Projects\WindowsFormsFail\WindowsFormsFail\bin\Debug\WindowsFormsFail.exe.config
+D:\Projects\WindowsFormsFail\WindowsFormsFail\obj\Debug\WindowsFormsFail.Form1.resources
+D:\Projects\WindowsFormsFail\WindowsFormsFail\obj\Debug\WindowsFormsFail.Properties.Resources.resources
+D:\Projects\WindowsFormsFail\WindowsFormsFail\obj\Debug\WindowsFormsFail.csproj.GenerateResource.Cache
+D:\Projects\WindowsFormsFail\WindowsFormsFail\bin\Debug\WindowsFormsFail.exe
+D:\Projects\WindowsFormsFail\WindowsFormsFail\bin\Debug\WindowsFormsFail.pdb
+D:\Projects\WindowsFormsFail\WindowsFormsFail\obj\Debug\WindowsFormsFail.exe
+D:\Projects\WindowsFormsFail\WindowsFormsFail\obj\Debug\WindowsFormsFail.pdb
+D:\Projects\Build\WindowsFormsFail\WindowsFormsFail\bin\Debug\WindowsFormsFail.exe.config
+D:\Projects\Build\WindowsFormsFail\WindowsFormsFail\obj\Debug\WindowsFormsFail.exe
+D:\Projects\Build\WindowsFormsFail\WindowsFormsFail\obj\Debug\WindowsFormsFail.pdb

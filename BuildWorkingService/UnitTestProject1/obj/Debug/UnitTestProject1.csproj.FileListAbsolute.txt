@@ -1,0 +1,8 @@
+D:\Projects\BuildWorkingService\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Projects\BuildWorkingService\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Projects\BuildWorkingService\UnitTestProject1\bin\Debug\BuildWorkingService.exe
+D:\Projects\BuildWorkingService\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\BuildWorkingService\UnitTestProject1\bin\Debug\BuildWorkingService.pdb
+D:\Projects\BuildWorkingService\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Projects\BuildWorkingService\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Projects\BuildWorkingService\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

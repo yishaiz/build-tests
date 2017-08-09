@@ -1,0 +1,8 @@
+D:\Projects\BuildTestFailService\BuildTestFailService\bin\Debug\BuildTestFailService.exe.config
+D:\Projects\BuildTestFailService\BuildTestFailService\obj\Debug\BuildTestFailService.Properties.Resources.resources
+D:\Projects\BuildTestFailService\BuildTestFailService\obj\Debug\BuildTestFailService.csproj.GenerateResource.Cache
+D:\Projects\BuildTestFailService\BuildTestFailService\bin\Debug\BuildTestFailService.exe
+D:\Projects\BuildTestFailService\BuildTestFailService\bin\Debug\BuildTestFailService.pdb
+D:\Projects\BuildTestFailService\BuildTestFailService\obj\Debug\BuildTestFailService.exe
+D:\Projects\BuildTestFailService\BuildTestFailService\obj\Debug\BuildTestFailService.pdb
+D:\Projects\BuildTestFailService\BuildTestFailService\obj\Debug\BuildTestFailService.csprojResolveAssemblyReference.cache

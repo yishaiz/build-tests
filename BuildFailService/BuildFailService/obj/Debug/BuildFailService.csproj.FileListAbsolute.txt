@@ -1,0 +1,3 @@
+D:\Projects\BuildFailService\BuildFailService\bin\Debug\BuildFailService.exe.config
+D:\Projects\BuildFailService\BuildFailService\obj\Debug\BuildFailService.Properties.Resources.resources
+D:\Projects\BuildFailService\BuildFailService\obj\Debug\BuildFailService.csproj.GenerateResource.Cache

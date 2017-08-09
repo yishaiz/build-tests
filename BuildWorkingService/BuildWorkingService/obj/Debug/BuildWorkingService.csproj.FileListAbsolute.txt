@@ -1,0 +1,8 @@
+D:\Projects\BuildWorkingService\BuildWorkingService\bin\Debug\BuildWorkingService.exe.config
+D:\Projects\BuildWorkingService\BuildWorkingService\bin\Debug\BuildWorkingService.exe
+D:\Projects\BuildWorkingService\BuildWorkingService\bin\Debug\BuildWorkingService.pdb
+D:\Projects\BuildWorkingService\BuildWorkingService\obj\Debug\BuildWorkingService.csprojResolveAssemblyReference.cache
+D:\Projects\BuildWorkingService\BuildWorkingService\obj\Debug\BuildWorkingService.Properties.Resources.resources
+D:\Projects\BuildWorkingService\BuildWorkingService\obj\Debug\BuildWorkingService.csproj.GenerateResource.Cache
+D:\Projects\BuildWorkingService\BuildWorkingService\obj\Debug\BuildWorkingService.exe
+D:\Projects\BuildWorkingService\BuildWorkingService\obj\Debug\BuildWorkingService.pdb

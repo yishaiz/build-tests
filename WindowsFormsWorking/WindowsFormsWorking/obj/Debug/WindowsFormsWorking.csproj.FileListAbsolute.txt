@@ -1,0 +1,11 @@
+D:\Projects\WindowsFormsWorking\WindowsFormsWorking\bin\Debug\WindowsFormsWorking.exe.config
+D:\Projects\WindowsFormsWorking\WindowsFormsWorking\obj\Debug\WindowsFormsWorking.Form1.resources
+D:\Projects\WindowsFormsWorking\WindowsFormsWorking\obj\Debug\WindowsFormsWorking.Properties.Resources.resources
+D:\Projects\WindowsFormsWorking\WindowsFormsWorking\obj\Debug\WindowsFormsWorking.csproj.GenerateResource.Cache
+D:\Projects\WindowsFormsWorking\WindowsFormsWorking\bin\Debug\WindowsFormsWorking.exe
+D:\Projects\WindowsFormsWorking\WindowsFormsWorking\bin\Debug\WindowsFormsWorking.pdb
+D:\Projects\WindowsFormsWorking\WindowsFormsWorking\obj\Debug\WindowsFormsWorking.exe
+D:\Projects\WindowsFormsWorking\WindowsFormsWorking\obj\Debug\WindowsFormsWorking.pdb
+D:\Projects\Build\WindowsFormsWorking\WindowsFormsWorking\bin\Debug\WindowsFormsWorking.exe.config
+D:\Projects\Build\WindowsFormsWorking\WindowsFormsWorking\obj\Debug\WindowsFormsWorking.exe
+D:\Projects\Build\WindowsFormsWorking\WindowsFormsWorking\obj\Debug\WindowsFormsWorking.pdb
