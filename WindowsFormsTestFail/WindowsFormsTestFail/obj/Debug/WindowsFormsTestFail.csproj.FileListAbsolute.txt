@@ -10,3 +10,9 @@ D:\Projects\WindowsFormsTestFail\WindowsFormsTestFail\obj\Debug\WindowsFormsTest
 D:\Projects\Build\WindowsFormsTestFail\WindowsFormsTestFail\bin\Debug\WindowsFormsTestFail.exe.config
 D:\Projects\Build\WindowsFormsTestFail\WindowsFormsTestFail\obj\Debug\WindowsFormsTestFail.exe
 D:\Projects\Build\WindowsFormsTestFail\WindowsFormsTestFail\obj\Debug\WindowsFormsTestFail.pdb
+D:\Projects\Build\WindowsFormsTestFail\WindowsFormsTestFail\bin\Debug\WindowsFormsTestFail.exe
+D:\Projects\Build\WindowsFormsTestFail\WindowsFormsTestFail\bin\Debug\WindowsFormsTestFail.pdb
+D:\Projects\Build\WindowsFormsTestFail\WindowsFormsTestFail\obj\Debug\WindowsFormsTestFail.csprojResolveAssemblyReference.cache
+D:\Projects\Build\WindowsFormsTestFail\WindowsFormsTestFail\obj\Debug\WindowsFormsTestFail.Form1.resources
+D:\Projects\Build\WindowsFormsTestFail\WindowsFormsTestFail\obj\Debug\WindowsFormsTestFail.Properties.Resources.resources
+D:\Projects\Build\WindowsFormsTestFail\WindowsFormsTestFail\obj\Debug\WindowsFormsTestFail.csproj.GenerateResource.Cache

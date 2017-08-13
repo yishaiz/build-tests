@@ -6,3 +6,11 @@ D:\Projects\WindowsFormsTestFail\UnitTestProject1\bin\Debug\WindowsFormsTestFail
 D:\Projects\WindowsFormsTestFail\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
 D:\Projects\WindowsFormsTestFail\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\Projects\WindowsFormsTestFail\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\Projects\Build\WindowsFormsTestFail\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Projects\Build\WindowsFormsTestFail\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Projects\Build\WindowsFormsTestFail\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Build\WindowsFormsTestFail\UnitTestProject1\bin\Debug\WindowsFormsTestFail.exe
+D:\Projects\Build\WindowsFormsTestFail\UnitTestProject1\bin\Debug\WindowsFormsTestFail.pdb
+D:\Projects\Build\WindowsFormsTestFail\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Projects\Build\WindowsFormsTestFail\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Projects\Build\WindowsFormsTestFail\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -8,11 +8,14 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		QA|Any CPU = QA|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EDF5072C-CDBE-41DE-8173-92CD1CDBE3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EDF5072C-CDBE-41DE-8173-92CD1CDBE3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF5072C-CDBE-41DE-8173-92CD1CDBE3EF}.QA|Any CPU.ActiveCfg = QA|Any CPU
+		{EDF5072C-CDBE-41DE-8173-92CD1CDBE3EF}.QA|Any CPU.Build.0 = QA|Any CPU
 		{EDF5072C-CDBE-41DE-8173-92CD1CDBE3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDF5072C-CDBE-41DE-8173-92CD1CDBE3EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection

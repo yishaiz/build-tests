@@ -34,6 +34,14 @@ namespace WindowsFormsWorking
             WriteLog("Start... ");
 
             StartTimer();
+
+            DisplayParams();
+        }
+
+        private void DisplayParams()
+        {
+            string appName = System.Reflection.Assembly.GetAssembly(this.GetType()).FullName;
+            throw new NotImplementedException();
         }
 
         private void InitSettings()
